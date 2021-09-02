@@ -1,2 +1,1 @@
-# Simon
-A game of memory skills
+# The-Simon-Game
